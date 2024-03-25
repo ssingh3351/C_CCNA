@@ -1,0 +1,8 @@
+﻿  2D_array.cpp
+C:\Users\shasing4\OneDrive - Cisco\Documents\CISCO_Software\Self_Practice\Advancd_C\VisualStudio\2D_array\2D_array\2D_array.cpp(33,9): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'unsigned int (*)[3]'
+C:\Users\shasing4\OneDrive - Cisco\Documents\CISCO_Software\Self_Practice\Advancd_C\VisualStudio\2D_array\2D_array\2D_array.cpp(33,9): warning C4313: 'printf': '%u' in format string conflicts with argument 1 of type 'unsigned int (*)[3]'
+C:\Users\shasing4\OneDrive - Cisco\Documents\CISCO_Software\Self_Practice\Advancd_C\VisualStudio\2D_array\2D_array\2D_array.cpp(33,9): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 2 has type 'unsigned int *'
+C:\Users\shasing4\OneDrive - Cisco\Documents\CISCO_Software\Self_Practice\Advancd_C\VisualStudio\2D_array\2D_array\2D_array.cpp(33,9): warning C4313: 'printf': '%u' in format string conflicts with argument 2 of type 'unsigned int *'
+C:\Users\shasing4\OneDrive - Cisco\Documents\CISCO_Software\Self_Practice\Advancd_C\VisualStudio\2D_array\2D_array\2D_array.cpp(33,9): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 3 has type 'unsigned int *'
+C:\Users\shasing4\OneDrive - Cisco\Documents\CISCO_Software\Self_Practice\Advancd_C\VisualStudio\2D_array\2D_array\2D_array.cpp(33,9): warning C4313: 'printf': '%u' in format string conflicts with argument 3 of type 'unsigned int *'
+  2D_array.vcxproj -> C:\Users\shasing4\OneDrive - Cisco\Documents\CISCO_Software\Self_Practice\Advancd_C\VisualStudio\2D_array\x64\Debug\2D_array.exe

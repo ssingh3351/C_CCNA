@@ -1,0 +1,4 @@
+﻿  Recursion.cpp
+C:\Users\shasing4\OneDrive - Cisco\Documents\CISCO_Software\Self_Practice\Advancd_C\VisualStudio\Recursion\Recursion\Recursion.cpp(20,19): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\shasing4\OneDrive - Cisco\Documents\CISCO_Software\Self_Practice\Advancd_C\VisualStudio\Recursion\Recursion\Recursion.cpp(23,18): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Recursion.vcxproj -> C:\Users\shasing4\OneDrive - Cisco\Documents\CISCO_Software\Self_Practice\Advancd_C\VisualStudio\Recursion\x64\Debug\Recursion.exe
