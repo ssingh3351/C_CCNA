@@ -1,0 +1,3 @@
+﻿  Polynomial_using_LL.cpp
+C:\Users\shasing4\OneDrive - Cisco\Documents\CISCO_Software\Self_Practice\Advanced_C\VisualStudio\Polynomial_using_LL\Polynomial_using_LL\Polynomial_using_LL.cpp(51,25): warning C4244: '+=': conversion from 'double' to 'long', possible loss of data
+  Polynomial_using_LL.vcxproj -> C:\Users\shasing4\OneDrive - Cisco\Documents\CISCO_Software\Self_Practice\Advanced_C\VisualStudio\Polynomial_using_LL\x64\Debug\Polynomial_using_LL.exe
