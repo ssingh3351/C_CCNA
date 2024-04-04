@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\shasing4\\OneDrive - Cisco\\Documents\\CISCO_Software\\Self_Practice\\Advanced_C\\VisualStudio\\Stack\\",
+  "WorkspaceRootPath": "C:\\Users\\USER\\Documents\\C_CCNA\\VisualStudio\\Stack\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EA6521A7-E113-46B7-930B-63622AA96F14}|Stack\\Stack.vcxproj|C:\\Users\\shasing4\\OneDrive - Cisco\\Documents\\CISCO_Software\\Self_Practice\\Advanced_C\\VisualStudio\\Stack\\Stack\\Stack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{EA6521A7-E113-46B7-930B-63622AA96F14}|Stack\\Stack.vcxproj|C:\\Users\\USER\\Documents\\C_CCNA\\VisualStudio\\Stack\\Stack\\Stack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{EA6521A7-E113-46B7-930B-63622AA96F14}|Stack\\Stack.vcxproj|solutionrelative:Stack\\Stack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -14,17 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Stack.cpp",
-              "DocumentMoniker": "C:\\Users\\shasing4\\OneDrive - Cisco\\Documents\\CISCO_Software\\Self_Practice\\Advanced_C\\VisualStudio\\Stack\\Stack\\Stack.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\C_CCNA\\VisualStudio\\Stack\\Stack\\Stack.cpp",
               "RelativeDocumentMoniker": "Stack\\Stack.cpp",
-              "ToolTip": "C:\\Users\\shasing4\\OneDrive - Cisco\\Documents\\CISCO_Software\\Self_Practice\\Advanced_C\\VisualStudio\\Stack\\Stack\\Stack.cpp",
+              "ToolTip": "C:\\Users\\USER\\Documents\\C_CCNA\\VisualStudio\\Stack\\Stack\\Stack.cpp",
               "RelativeToolTip": "Stack\\Stack.cpp",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAAKAAAA",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAwGEAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-04-03T14:04:44.549Z",
               "EditorCaption": ""
