@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Intersection_of_two_LL", "Intersection_of_two_LL\Intersection_of_two_LL.vcxproj", "{61EDB966-DF12-4902-A95F-902DB16EB217}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61EDB966-DF12-4902-A95F-902DB16EB217}.Debug|x64.ActiveCfg = Debug|x64
+		{61EDB966-DF12-4902-A95F-902DB16EB217}.Debug|x64.Build.0 = Debug|x64
+		{61EDB966-DF12-4902-A95F-902DB16EB217}.Debug|x86.ActiveCfg = Debug|Win32
+		{61EDB966-DF12-4902-A95F-902DB16EB217}.Debug|x86.Build.0 = Debug|Win32
+		{61EDB966-DF12-4902-A95F-902DB16EB217}.Release|x64.ActiveCfg = Release|x64
+		{61EDB966-DF12-4902-A95F-902DB16EB217}.Release|x64.Build.0 = Release|x64
+		{61EDB966-DF12-4902-A95F-902DB16EB217}.Release|x86.ActiveCfg = Release|Win32
+		{61EDB966-DF12-4902-A95F-902DB16EB217}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15DE753D-3B63-4A7A-BAE3-A1561929DD2F}
+	EndGlobalSection
+EndGlobal
