@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shasing4\\OneDrive - Cisco\\Documents\\CISCO_Software\\Self_Practice\\Advanced_C\\VisualStudio\\Paranthesis_Matching_with LL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75F370E3-6DB8-4129-AAC6-B6B584CB93DD}|Paranthesis_Matching_with LL\\Paranthesis_Matching_with LL.vcxproj|C:\\Users\\shasing4\\OneDrive - Cisco\\Documents\\CISCO_Software\\Self_Practice\\Advanced_C\\VisualStudio\\Paranthesis_Matching_with LL\\Paranthesis_Matching_with LL\\Paranthesis_Matching_with LL.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{75F370E3-6DB8-4129-AAC6-B6B584CB93DD}|Paranthesis_Matching_with LL\\Paranthesis_Matching_with LL.vcxproj|solutionrelative:Paranthesis_Matching_with LL\\Paranthesis_Matching_with LL.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Paranthesis_Matching_with LL.cpp",
+              "DocumentMoniker": "C:\\Users\\shasing4\\OneDrive - Cisco\\Documents\\CISCO_Software\\Self_Practice\\Advanced_C\\VisualStudio\\Paranthesis_Matching_with LL\\Paranthesis_Matching_with LL\\Paranthesis_Matching_with LL.cpp",
+              "RelativeDocumentMoniker": "Paranthesis_Matching_with LL\\Paranthesis_Matching_with LL.cpp",
+              "ToolTip": "C:\\Users\\shasing4\\OneDrive - Cisco\\Documents\\CISCO_Software\\Self_Practice\\Advanced_C\\VisualStudio\\Paranthesis_Matching_with LL\\Paranthesis_Matching_with LL\\Paranthesis_Matching_with LL.cpp",
+              "RelativeToolTip": "Paranthesis_Matching_with LL\\Paranthesis_Matching_with LL.cpp",
+              "ViewState": "AQIAACAAAAAAAAAAAAAQwD0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-05T10:18:36.146Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
