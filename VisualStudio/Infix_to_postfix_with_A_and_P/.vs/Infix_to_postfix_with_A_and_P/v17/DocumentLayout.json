@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Documents\\C_CCNA\\VisualStudio\\Infix_to_postfix_with_A_and_P\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB951843-4121-4805-B300-39AE8A458548}|Infix_to_postfix_with_A_and_P\\Infix_to_postfix_with_A_and_P.vcxproj|C:\\Users\\USER\\Documents\\C_CCNA\\VisualStudio\\Infix_to_postfix_with_A_and_P\\Infix_to_postfix_with_A_and_P\\Infix_to_postfix_with_A_and_P.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB951843-4121-4805-B300-39AE8A458548}|Infix_to_postfix_with_A_and_P\\Infix_to_postfix_with_A_and_P.vcxproj|solutionrelative:Infix_to_postfix_with_A_and_P\\Infix_to_postfix_with_A_and_P.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Infix_to_postfix_with_A_and_P.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\C_CCNA\\VisualStudio\\Infix_to_postfix_with_A_and_P\\Infix_to_postfix_with_A_and_P\\Infix_to_postfix_with_A_and_P.cpp",
+              "RelativeDocumentMoniker": "Infix_to_postfix_with_A_and_P\\Infix_to_postfix_with_A_and_P.cpp",
+              "ToolTip": "C:\\Users\\USER\\Documents\\C_CCNA\\VisualStudio\\Infix_to_postfix_with_A_and_P\\Infix_to_postfix_with_A_and_P\\Infix_to_postfix_with_A_and_P.cpp",
+              "RelativeToolTip": "Infix_to_postfix_with_A_and_P\\Infix_to_postfix_with_A_and_P.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-18T11:06:23.864Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
