@@ -1,0 +1,3 @@
+﻿  Infix_to_postfix_with_A_and_P.cpp
+C:\Users\shasing4\OneDrive - Cisco\Documents\CISCO_Software\Self_Practice\Advanced_C\VisualStudio\Infix_to_postfix_with_A_and_P\Infix_to_postfix_with_A_and_P\Infix_to_postfix_with_A_and_P.cpp(19,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Infix_to_postfix_with_A_and_P.vcxproj -> C:\Users\shasing4\OneDrive - Cisco\Documents\CISCO_Software\Self_Practice\Advanced_C\VisualStudio\Infix_to_postfix_with_A_and_P\x64\Debug\Infix_to_postfix_with_A_and_P.exe
